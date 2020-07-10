@@ -1,0 +1,17 @@
+{
+  "name": "api-compartilheVcTbm",
+  "version": "1.0.0",
+  "description": "Api destinada para o curso da T9-React-III Reprograma",
+  "main": "serve.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jéssica Osko",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "md5": "^2.2.1",
+    "sqlite3": "^4.0.6"
+  }
+}
